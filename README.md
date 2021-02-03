@@ -16,7 +16,7 @@ Manual
 Download the files on a machine with Java SE installed!
 
 For the server, on your terminal execute and run the MuTCPEchoServer.java class:
-(execution command: javac MuTCPEchoServer.java | running command: java MuTCPEchoServer <port>)
+(execution command: javac MuTCPEchoServer.java | running command: java MuTCPEchoServer < port >)
   
 For the client, on your terminal execute and run the MuTCPEchoClient.java class: 
 (execution command: javac MuTCPEchoClient.java | running command: java MuTCPEchoClient <ip address or machineName> <port the server is runnning on>)
