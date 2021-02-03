@@ -25,4 +25,4 @@ Both client and server can run on the same device or on different devices in the
 
 For devices that are not connected in the same Local Area Network: 
 The machine running the MuTCPEchoServer class has to enable port sharing on their routers.
-The proceeding process does not change from the process mentioned above
+Execute and run the files as mentioned above. 
